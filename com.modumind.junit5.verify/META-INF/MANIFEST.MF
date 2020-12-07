@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JUnit 5 Verification Plugin
+Bundle-SymbolicName: com.modumind.junit5.verify
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: Modular Mind Ltd.
+Automatic-Module-Name: com.modumind.junit5.verify
+Bundle-RequiredExecutionEnvironment: JavaSE-11
